@@ -16,14 +16,13 @@
       box-shadow:inset 0 0 0 100% rgba(255, 0, 150, 0.3);
     ;*/
   }
-  h1, h2, h3{
+  h1, h2, h3, form{
     text-align: center;
   }
 
-  form {
-      text-align: center;
-  }
+  
 
-  button#check {
-      text-align: center;
+  button{
+    display: block;
+    margin: 20px auto;
   }
